@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "App.js",
     "name": "japanese-tattoo-meanings",
     "slug": "japanese-tattoo-meanings",
     "version": "1.0.0",
